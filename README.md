@@ -176,13 +176,13 @@ Follow the steps below to set up and run this project on your local system.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rithinika29/menstrual-health-ml-xai.git
+git clone https://github.com/rithinika29/Menstrual_Health_ML_Project.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd menstrual-health-ml-xai
+cd Menstrual_Health_ML_Project
 ```
 
 ### 3. Install Required Libraries
